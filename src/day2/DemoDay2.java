@@ -24,5 +24,9 @@ public class DemoDay2 {
 		public static void add(double a , double b , double c ) {
 			System.out.println(a+b+c);
 		}
+		//subtract double
+		public static void add(double a , double b , double c ) {
+			System.out.println(a-b-c);
+		}
 	}
 }
